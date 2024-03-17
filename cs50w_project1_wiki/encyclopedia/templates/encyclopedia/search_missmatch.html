@@ -1,0 +1,15 @@
+{% extends "encyclopedia/layout.html" %}
+
+{% block title %}
+    Encyclopedia
+{% endblock %}
+
+{% block body %}
+<p>{{ query }} was not found. Did you mean: </p>
+<ul>
+    {% for match in matches %}
+        <li><a href="{{ match }}"> {{ match }} </a></li>
+    {% endfor %}
+</ul>
+
+{% endblock %}
