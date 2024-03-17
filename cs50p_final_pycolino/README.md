@@ -1,9 +1,5 @@
 # pycolino
 
-## Video-Demo:
-
-https://www.youtube.com/watch?v=O9xzHHkCB4M
-
 ## Description:
 
 This project is a command line tool that allows you to add notes to the files of a directory on the command line and read them. The program is written in Python and uses a CSV file to store the relevant data. Pycolino is an abbreviation for Python command line notes. The program has the following main functions:
