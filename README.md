@@ -1,14 +1,15 @@
 # application_portfolio
 This repository contains  a collection of projects for demonstrating my skills
 
-In den jeweiligen Unterordnern finden sie Projekte, die ich im Rahmen von Kursen oder deren Kursabschlüssen erstellt habe. Bei der Zusammenstellung habe ich darauf geachtet, keine zu trivialen Aufgaben auszusuchen. 
+In the respective subfolders you will find projects that I have created as part of courses or the completion of courses. When putting them together, I made sure not to select any tasks that were too trivial. 
 
-## Nachstehend eine Übersicht zu den Projekten:
+## Below is an overview of the projects:
 
 ### CS50w_project1_wiki:
-* Tech-Stack: Python/Django/HTML/CSS/Bootstrap
-* Aufgabe dieses Projektes war es, eine Anwendung ähnlich Wikipedia zu programmieren. Das Grundgerüst (index.html) und die Funktion der util.py waren vorgegeben. Erstellt habe ich im Rahmen des Projekts urls.py, views.py und einen Großteil der anderen HTML-Seiten.
+*Tech-Stack: Python/Django/HTML/CSS/Bootstrap
+*The task of this project was to program an application similar to Wikipedia. The basic structure (index.html) and the function of util.py were predefined. I created urls.py, views.py and most of the other HTML pages as part of the project.
 
 ### CS50p_final_pycolino:
-* Tech-Stack: Python/CSV
-* Hierbei handelt es sich um ein vollständig selbsterstelltes Abschlussprojekt für Harvards CS50 Python-Kurs. Das Script liest Verzeichnisstrukturen aus und klont diese permanent in einer CSV-Datei. Über die Kommandozeile kann das Verzeichnis dabei aufgerufen, und die darin befindlichen Dateien mit Kommentaren versehen werden. 
+*Tech stack: Python/CSV
+*This is a completely self-created final project for Harvard's CS50 Python course. The script reads directory structures and permanently clones them into a CSV file. The directory can be called via the command line and the files in it can be commented. 
+
