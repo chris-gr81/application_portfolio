@@ -58,7 +58,7 @@ To install Pycolino, follow these steps:
 * `pycolino.py`: The main Python script containing the Pycolino command-line tool.
 * `pycolino.csv`: The CSV file used for storing file names and associated notes.
 * `test_pycolino.py`: A set of unit tests to ensuring the functionality
-* 
+  
 ## Testing
 
 Pycolino includes a set of unit tests to ensure its functionality. To run the tests, use the following command:
