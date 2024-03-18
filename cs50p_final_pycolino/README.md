@@ -14,7 +14,7 @@ Pycolino will display the complete directory along with any existing notes assoc
 
 To install Pycolino, follow these steps:
 
-1) Bla
+1) Clone the entire repository as described in the readme of the main directory
 
 2) Navigate to the project directory:
     ```bash
