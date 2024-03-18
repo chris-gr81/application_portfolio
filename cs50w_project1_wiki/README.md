@@ -52,3 +52,6 @@ To run the app locally, follow these steps:
 ## Contributing
 Contributions are welcome! If you find any bugs or have suggestions for improvement, please submit a pull request on my GitHub repository.
 
+## Author
+Author: Christian Grimm
+
