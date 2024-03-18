@@ -1,3 +1,4 @@
-argparse
-pytest
-tabulate
+# Requirements for Pycolino
+tabulate==0.8.11
+pytest==6.2.5
+argparse==1.4.0
