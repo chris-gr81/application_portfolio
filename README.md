@@ -19,3 +19,7 @@ Follow the further installation instructions in the readme files of the corespon
 * **Tech stack: Python/CSV**
 * This is a completely self-created final project for Harvard's CS50 Python course. The script reads directory structures and permanently clones them into a CSV file. The directory can be called via the command line and the files in it can be commented. 
 
+### java_arrayMap:
+* **Tech stack: Java/JavaDoc**
+* This data structure was created as part of a study assignment. The structure is a map implementation based on a multidimensional array, which implements the most important functions of the Java map interface. The code is fully commented in JavaDoc format and is fully operational as soon as it is imported.
+
